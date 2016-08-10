@@ -1,4 +1,4 @@
-# practicas
+# practica 
 #include <iostream>
 #include <stdio.h>
 
